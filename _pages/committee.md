@@ -23,7 +23,7 @@ The Steering Committee will be responsible for guiding the future direction of t
 <br>
 <h3>Environmental Statement</h3>
 
-The Steering Committee is committed to lessening the environmental impact of the Timbre conferences. In working closely with local chairs, we pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of our activity (e.g., air travel, physical and digital infrastructure) by investing a possible surplus of the budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes.
+The Steering Committee is committed to lessening the environmental impact of the Timbre conferences. In working closely with local chairs, we pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of our activity (e.g., air travel, physical and digital infrastructure) by investing a possible surplus of a conference's budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes. We will also seek to appoint an environmental officer or committee with the objective of further exploring this and other ways of compensating for the carbon footprint caused by the Timbre conferences. 
 
 <!-- * The Timbre Conference diversity statement (coming soon) -->
 <!-- * The Timbre Conference environment statement (coming soon) -->
