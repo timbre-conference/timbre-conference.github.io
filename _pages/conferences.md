@@ -17,7 +17,7 @@ nav_order: 1
 
 Proposal submissions are open. The deadline is 17 February 2023.
 
-Please find more details here: http://timbreconference.org/timbre2023/
+Please find more details here: [https://timbreconference.org/timbre2023/](https://timbreconference.org/timbre2023/)
 
 <br>
 <h3>Past editions</h3>
