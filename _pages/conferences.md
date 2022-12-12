@@ -13,11 +13,11 @@ nav_order: 1
     <p class="post-description">{{ page.description }}</p>
 </header>
 
-The 3rd International Conference on Timbre, will be held in Thessaloniki, Greece, 10–12 July 2023. It will be hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Artistotle University of Thessaloniki. 
+**The 3rd International Conference on Timbre** will be held in Thessaloniki, Greece, 10–12 July 2023. It will be hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Artistotle University of Thessaloniki. Submissions are invited for interdisciplinary research dealing with any aspect of timbre and orchestration. The conference will be held in conjunction with the inaugural [Timbre and Orchestration Summer School](https://www.actorproject.org/timbre-and-orchestration-summer-school) (July 8–12), a synergy with the [ACTOR Project]((https://www.actorproject.org/).
 
-Timbre 2023 will include <i>the first ever Summer School on Timbre and Orchestration</i>, an initiative of the [ACTOR Partnership](https://www.actorproject.org/). The summer school will take place 8–12 July 2023. 
+Proposal submissions are open. The deadline is 17 February 2023.
 
-<strong>Stay tuned!</strong>  
+Please find more details here: http://timbreconference.org/timbre2023/
 
 <br>
 <h3>Past editions</h3>
