@@ -18,7 +18,9 @@ The Steering Committee will be responsible for guiding the future direction of t
 * [Asterios Zacharakis](https://asteriszacharakis.wixsite.com/science) (Co-Chair Timbre 2020; Chair Timbre 2023)
 * [Charalampos Saitis](http://comma.eecs.qmul.ac.uk/) (Chair of the Steering Committee; Co-Chair Timbre 2017, 2020)
 * [Kai Siedenburg](https://uol.de/en/music-perception) (Co-Chair Timbre 2017, 2020)
+* [Lindsey Reymore](https://www.lindseyreymore.com/) 
 * [Stephen McAdams](https://www.mcgill.ca/mpcl/) (Chair Timbre 2018)
+* [Zachary Wallmark](https://musicanddance.uoregon.edu/directory/profiles/all/zwallmar) (Paper Co-Chair Timbre 2023)
 
 <br>
 <h3>Environmental Statement</h3>
