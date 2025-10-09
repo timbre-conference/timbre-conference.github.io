@@ -13,7 +13,9 @@ nav_order: 1
     <p class="post-description">{{ page.description }}</p>
 </header>
 
-**The 4th International Conference on Timbre** will be held in Montreal, Canada, 2–4 July 2026. It will be hosted by the Faculty of Music at the Université de Montréal. Submissions are invited for research and scholarship dealing with any aspect and application of timbre. A Call for Abstracts will be published soon. Stay tuned & see you there! 
+**The 4th International Conference on Timbre** will be held in Montreal, Canada, 2–4 July 2026. It will be hosted by the Faculty of Music at the Université de Montréal. Submissions are invited for research and scholarship dealing with any aspect and application of timbre. 
+
+A Call for Abstracts will be published soon. Stay tuned & see you there! 
 
 <!-- Proposal submissions are open. The deadline is 17 February 2023. -->
 
