@@ -13,7 +13,7 @@ nav_order: 1
     <p class="post-description">{{ page.description }}</p>
 </header>
 
-<img src="/assets/img/logos/timbre2026-logo.png" width="800">
+<img src="/assets/img/logos/timbre2026-logo.png" width="760">
 
 We have the pleasure to announce that the 4th edition of the [International Conference on Timbre](https://timbreconference.org/) will be held in Montreal from July 2 to 4, 2026, hosted by the [University of Montreal](https://musique.umontreal.ca/accueil/) in collaboration with the research partnership [ACTOR (Analysis, Creation and Teaching of ORchestration)](https://www.actorproject.org/), and with the support of Montreal-based music research centres [CIRMMT (Centre for Interdisciplinary Research in Music Media and Technology)](https://www.cirmmt.org/en/welcome-to-cirmmt) and [RCMS (Regroupement inter-universitaire de recherche et création - musiques et sociétés)](https://regroupement-rcms.org/). 
 
