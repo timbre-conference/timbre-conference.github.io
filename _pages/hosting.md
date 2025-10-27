@@ -4,7 +4,7 @@ permalink: /hosting/
 title: Hosting
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 The Steering Committee is looking for hosts for Timbre 2026 and later. If you are interested in hosting Timbre, please get in touch with the Chair to discuss more.
