@@ -99,3 +99,17 @@ We particularly encourage submissions from “newcomers” (masters or early-sta
 * Caroline Traube, University of Montreal
 * Jimmie LeBlanc, University of Montreal
 
+**EVALUATION COMMITTEE**
+* Jay Marchand Knight
+* Malte Kob
+* Stephen McAdams
+* Lindsey Reymore
+* Zachary Wallmark
+* Charis Satis
+* Dominic Thibault
+* Robert Hasegawa
+* Emily Dolan
+* Michael Tenzer
+* more TBC
+
+
