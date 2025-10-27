@@ -13,6 +13,8 @@ nav_order: 1
     <p class="post-description">{{ page.description }}</p>
 </header>
 
+![Timbre 2026 conference logo](/assets/img/logos/timbre2026-logo.png)
+
 We have the pleasure to announce that the 4th edition of the [International Conference on Timbre](https://timbreconference.org/) will be held in Montreal from July 2 to 4, 2026, hosted by the University of Montreal in collaboration with the research partnership ACTOR (Analysis, Creation and Teaching of Orchestration), and with the support of Montreal-based music research centres CIRMMT (Centre for Interdisciplinary Research in Music Media and Technology) and RCMS (Regroupement inter-universitaire de recherche et création - musiques et sociétés). 
 
 Timbre is the fundamental material that composers, improvisers, performers and sound designers shape into music and sound art. Timbre poses multifaceted research questions across the scientific spectrum, from hearing, psychology, and neuroscience to acoustics and artificial intelligence. Timbre can also be approached from the perspective of the humanities, including history, anthropology, sociology, philosophy, and sound studies. 
