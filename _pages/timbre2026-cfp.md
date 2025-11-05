@@ -21,7 +21,7 @@ Timbre is the fundamental material that composers, improvisers, performers and s
 
 Bringing together musicians and researchers from these and related fields, the International Conference on Timbre aims to provide a truly interdisciplinary forum for exchanging novel perspectives and forging collaborations across different disciplines to advance our understanding of timbre from artistic, empirical, theoretical, and computational perspectives.
 
-Timbre 2026 seeks original, high-quality contributions in all areas related to timbre, including research presentations (delivered as oral presentations [20 minutes], lightning talks [5 minutes], or posters), artistic reports [20 minutes], and panel sessions, tutorials, or workshops [60-120 minutes] (details below). Presentations can be in either English or French.
+Timbre 2026 seeks original, high-quality contributions in all areas related to timbre, including research presentations (delivered as oral presentations [20 minutes], lightning talks [5 minutes], or posters), artistic reports [20 minutes], and panel sessions, tutorials, or workshops [60-120 minutes] (details below).
 
 <h3>Important Dates</h3>
 
