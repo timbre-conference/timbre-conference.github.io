@@ -15,6 +15,8 @@ nav_order: 1
 
 <img src="/assets/img/logos/timbre2026-logo.png" width="760">
 
+**NEW DEADLINE FOR ABSTRACTS: JANUARY 15, 2025, AoE**
+
 We have the pleasure to announce that the 4th edition of the [International Conference on Timbre](https://timbreconference.org/) will be held in Montreal from July 2 to 4, 2026, hosted by the [University of Montreal](https://musique.umontreal.ca/accueil/) in collaboration with the research partnership [ACTOR (Analysis, Creation and Teaching of ORchestration)](https://www.actorproject.org/), and with the support of Montreal-based music research centres [CIRMMT (Centre for Interdisciplinary Research in Music Media and Technology)](https://www.cirmmt.org/en/welcome-to-cirmmt) and [RCMS (Regroupement inter-universitaire de recherche et création - musiques et sociétés)](https://regroupement-rcms.org/). 
 
 Timbre is the fundamental material that composers, improvisers, performers and sound designers shape into music and sound art. Timbre poses multifaceted research questions across the scientific spectrum, from hearing, psychology, and neuroscience to acoustics and artificial intelligence. Timbre can also be approached from the perspective of the humanities, including history, anthropology, sociology, philosophy, and sound studies. 
@@ -27,8 +29,8 @@ Timbre 2026 seeks original, high-quality contributions in all areas related to t
 
 All deadlines are Anywhere on Earth (AoE) UTC-12.
 
-* **Submission deadline:** December 15, 2025
-* **Notification of acceptance:** January 31, 2026
+* **Submission deadline:** January 15, 2025
+* **Notification of acceptance:** February 25, 2026
 * **Updated abstracts:** April 30, 2026
 
 <h3>Potential Topics</h3>
