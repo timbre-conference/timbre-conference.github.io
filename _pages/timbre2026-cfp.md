@@ -86,7 +86,7 @@ Timbre 2026 invites submissions in the following formats.
 
 <h3>Submission</h3>
 
-For all of the formats above, please submit an abstract of a maximum of 4000 characters (500 to 700 words), to be accompanied with a list of references, through [this form](https://forms.office.com/r/QmkRrnRCH2) by December 15, 2025. Proposals will be evaluated anonymously and abstracts should not include any indication of the author’s identity. References to the author’s own work should be in the third person. 
+For all of the formats above, please submit an abstract of a maximum of 4000 characters (500 to 700 words), to be accompanied with a list of references, through [this form](https://forms.office.com/r/QmkRrnRCH2) by January 15, 2026. Proposals will be evaluated anonymously and abstracts should not include any indication of the author’s identity. References to the author’s own work should be in the third person. 
 
 We particularly encourage submissions from “newcomers” (masters or early-stage doctoral students) and scholars from underrepresented groups.
 
