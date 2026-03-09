@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /timbre2026-cfp/
+permalink: https://timbreconference.org/timbre2026/
 title: Timbre 2026
 hide_header: true
 description: 
@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-<header class="post-header"> 
+<!-- <header class="post-header"> 
     <h3 class="post-title">Timbre 2026 – Call for Participation</h3>
     <p class="post-description">{{ page.description }}</p>
 </header>
@@ -112,6 +112,6 @@ We particularly encourage submissions from “newcomers” (masters or early-sta
 * Robert Hasegawa
 * Emily Dolan
 * Michael Tenzer
-* more TBC
+* more TBC -->
 
 
