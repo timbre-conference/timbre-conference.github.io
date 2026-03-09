@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://timbreconference.org/timbre2026/
+permalink: /timbre2026/
 title: Timbre 2026
 hide_header: true
 description: 
